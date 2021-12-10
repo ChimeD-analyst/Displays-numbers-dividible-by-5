@@ -1,1 +1,1 @@
-# Displays-numbers-dividible-by-5
+# Displays-numbers-divisible-by-5
